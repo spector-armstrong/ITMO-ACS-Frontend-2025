@@ -169,3 +169,28 @@ a {
     background-color: #F5F5F0;
     text-align: left;
 }
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
+.menu {
+    stroke: #2a3c31;
+}
+
+.leaf {
+    width: 25px;
+    height: 25px;
+    fill: #5D866C
+}
+
+.new {
+    stroke: #2a3c31;
+    fill: none; 
+    stroke-width: 2px;
+}
+
+.saved {
+    stroke: #2a3c31;
+    fill: none;
+}
